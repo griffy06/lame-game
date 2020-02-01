@@ -1,0 +1,18 @@
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 150px 500px;
+    cursor: pointer;
+    position: absolute;
+  }
+
+  #inst{
+    margin-top: 28%; 
+    position: absolute;
+  }
